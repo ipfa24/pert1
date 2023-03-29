@@ -23,4 +23,4 @@ thread2.start()
 thread1.join()
 thread2.join()
 
-print('proses selesai')
+print('zikri anjg')
