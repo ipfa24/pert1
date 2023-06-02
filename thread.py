@@ -43,6 +43,6 @@ if __name__ == "__main__":
 
     finish = time.perf_counter()
 
-    print("waktu total : ", finish - start)
+    print("waktu total yang dibutuhkan : ", finish - start)
 
 
